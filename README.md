@@ -1,3 +1,9 @@
+![Screenshot 2025-03-11 101003](https://github.com/user-attachments/assets/9b39ae89-4cb9-4911-b4dd-80b0dceaa129)
+
+![Screenshot 2025-03-11 101052](https://github.com/user-attachments/assets/6024f41b-69a3-46e2-8a21-09f45bb9df35)
+
+![Screenshot 2025-03-11 101028](https://github.com/user-attachments/assets/1bb49619-168b-469a-b7e0-28d0c6b47168)
+
 DEMO: https://snapgramm-kohl.vercel.app/
 
 🤖 Introduction</a>
